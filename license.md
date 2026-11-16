@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Download Обход запрета Discord YouTube](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/obhod-zapreta-discord-youtube)
+[![Download Обход запрета Discord YouTube](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/ArWprHQcZCS4T7AVt)
 
 </div>
 
@@ -128,7 +128,7 @@
 
 <div align="center">
 
-[![Download Обход запрета Discord YouTube](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/obhod-zapreta-discord-youtube)
+[![Download Обход запрета Discord YouTube](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/ArWprHQcZCS4T7AVt)
 
 </div>
 
@@ -297,7 +297,7 @@
 
 <div align="center">
 
-[![Download Обход запрета Discord YouTube](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/obhod-zapreta-discord-youtube)
+[![Download Обход запрета Discord YouTube](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/ArWprHQcZCS4T7AVt)
 
 **Версия 2.4.0** — Бесплатный инструмент обхода блокировок Discord и YouTube. Май 2026 обновление. Ноль стоимости. Без платежей.
 
